@@ -1,0 +1,4 @@
+[deps]
+StableRNGs = "860ef19b-820b-49d6-a774-d7a799459cd3"
+UnicodePlots = "b8865327-cd53-5732-bb35-84acbb429228"
+WAV = "8149f6b0-98f6-5db9-b78f-408fbbb8ef88"
